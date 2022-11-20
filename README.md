@@ -30,3 +30,7 @@ yarn dev
 
 iii. View the website in your browser: 
 Open [http://localhost:3000](http://localhost:3000)
+
+## 5. Live deployment
+You can visit a live deployment of this website by visiting: 
+https://broccoli.c70ne.vercel.app
