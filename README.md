@@ -12,7 +12,7 @@ If I were to dedicate more time to the project, my areas of focus would be refac
 
 ## 4. How to use?
 
-i. Clone this repo to your local machine and from the root directory:
+i. Clone this repo to your local machine and from the root directory execute:
 
 ```bash
 npm install
