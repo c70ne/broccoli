@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: url('../public/bg.jpeg') no-repeat center center fixed;
+  background-color: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 0.8);
+  overscroll-behavior: none;
+}
+
+input, button {
+  font-family: var(--montserrat-font);
+}
